@@ -11,7 +11,7 @@
 .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
-    background-color: pink;
+    background-color: red;
 }
 
 .rounded {
@@ -41,7 +41,7 @@
 }
 
 #Acerca-de-mi {
-    background-color: pink;
+    background-color: red;
 }
 
 .bg-info {
